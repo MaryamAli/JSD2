@@ -1,0 +1,23 @@
+
+myForm{
+  border:5px solid black;
+}
+
+body{
+  font-family:'Dancing Script', cursive;
+  /*if you want to use own background image use:
+  background-image: url(images/background.jpg);*/
+}
+
+p:first letter{
+  font-family: Arial;
+  font-size: 50px;
+}
+.complaintArea{
+
+  border: 5px solid red;
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  
+}
