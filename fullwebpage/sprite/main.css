@@ -1,0 +1,6 @@
+.sprite {
+  background: url('images/sprite@2x.png') no-repeat -205px -65px;
+  background-size: 400px 200px;
+  width: 60px;
+  height: 60px;
+}
