@@ -1,0 +1,70 @@
+
+* {
+  border: 1px solid black;
+}
+
+.topbar{
+    
+    font-size: 17px;
+    color: grey;
+    width: 100%;
+    height: 40px;
+    padding:0;
+    font-style: arial;
+
+    
+}
+.home{
+    font-weight: bold;
+}
+
+p.ImageContain{
+    text-align: center;
+    font-size:50px;
+    color: white;
+}
+
+}
+
+.ImageContain {
+  height: 400px;
+  background-image: url(https://raw.githubusercontent.com/tiy-atl-js-sept-2015/Assignments/master/Assignment-04/Normal-Mode/assets/background.jpg);
+  background-size: overflow;
+  border: 1px solid black;
+  color: #000; 
+}
+
+/*below is for 3 column layout model from stackverflow*/
+/*img{
+    width: 1280;
+    height: 427;
+}
+.container {
+    position: relative;
+    width: 500px;
+}
+.container div {
+    height: 300px;
+    display: inline-block;
+    padding: 10px 10px;
+}
+
+.column-left {
+    width: 33%;
+    left: 15%;
+    background: #00F;
+    float: left;
+    p
+}
+.column-center {
+    width: 34%;
+    background: #933;
+    margin-left: 15%;
+    float:left;
+}
+.column-right {
+    width: 33%;
+    right: 15%;
+    float: left;
+    background: #999;
+}*/
